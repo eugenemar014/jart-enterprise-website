@@ -18,7 +18,7 @@ html { scroll-behavior: smooth; scroll-padding-top: 82px; }
 body { background: var(--paper); color: var(--ink); font-family: "DM Sans", sans-serif; line-height: 1.65; }
 a { color: inherit; text-decoration: none; }
 img { display: block; width: 100%; }
- :focus-visible { outline: 2px solid var(--mint); outline-offset: 4px; }
+:focus-visible { outline: 2px solid var(--mint); outline-offset: 4px; }
 .container { width: min(90%, var(--max)); margin: auto; }
 .header { position: fixed; inset: 0 0 auto; z-index: 100; background: rgba(5,9,6,.94); border-bottom: 1px solid rgba(121,229,170,.14); backdrop-filter: blur(14px); }
 .nav { height: 78px; display: flex; align-items: center; justify-content: space-between; }
